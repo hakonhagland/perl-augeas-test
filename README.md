@@ -6,7 +6,7 @@ To test if it works:
 cpanm --installdeps .
 perl Makefile.PL
 make
-p.pl
+perl p.pl
 ```
 
 Output should be like:
