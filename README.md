@@ -3,6 +3,7 @@
 To test if it works:
 
 ```
+cpanm --installdeps .
 perl Makefile.PL
 make
 p.pl
