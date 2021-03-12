@@ -1,0 +1,17 @@
+# perl-augeas-test
+
+To test if it works:
+
+```
+perl Makefile.PL
+make
+p.pl
+```
+
+Output should be like:
+
+```
+flags = 130
+result = 0x557ff17a7bd0
+
+```
